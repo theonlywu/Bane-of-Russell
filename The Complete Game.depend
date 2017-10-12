@@ -1,0 +1,393 @@
+# depslib dependency file v1.0
+1431679933 source:c:\users\andy\cs1 final project\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1431581496 c:\users\andy\cs1 final project\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1431677376 c:\users\andy\cs1 final project\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1431577158 c:\users\andy\cs1 final project\the complete game\movement.h
+	<iostream>
+
+1431580697 c:\users\andy\cs1 final project\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1431677750 c:\users\andy\cs1 final project\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1431677552 c:\users\andy\cs1 final project\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432757604 source:e:\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1432670916 e:\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1432670290 e:\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432670096 e:\the complete game\movement.h
+	<iostream>
+
+1432670096 e:\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432757550 e:\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432670096 e:\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432756364 source:j:\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1432670916 j:\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1432670290 j:\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432670096 j:\the complete game\movement.h
+	<iostream>
+
+1432670096 j:\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432756768 j:\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432670096 j:\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432761204 source:g:\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1432674516 g:\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1432673890 g:\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432673696 g:\the complete game\movement.h
+	<iostream>
+
+1432673696 g:\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432761150 g:\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432673696 g:\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432757604 source:f:\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1432670916 f:\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1432670290 f:\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432670096 f:\the complete game\movement.h
+	<iostream>
+
+1432670096 f:\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432757550 f:\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1432670096 f:\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1462826078 source:f:\c++\personal projects\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1462566512 f:\c++\personal projects\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1432670290 f:\c++\personal projects\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432670096 f:\c++\personal projects\the complete game\movement.h
+	<iostream>
+
+1462308560 f:\c++\personal projects\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1461963012 f:\c++\personal projects\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1463775912 f:\c++\personal projects\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1462829678 source:e:\c++\personal projects\the complete game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1462570112 e:\c++\personal projects\the complete game\menu.h
+	<iostream>
+	<windows.h>
+
+1432673890 e:\c++\personal projects\the complete game\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432673696 e:\c++\personal projects\the complete game\movement.h
+	<iostream>
+
+1462312160 e:\c++\personal projects\the complete game\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1461966612 e:\c++\personal projects\the complete game\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1463779512 e:\c++\personal projects\the complete game\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1462826078 source:f:\c++\personal projects\the complete game (bane of russell)\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	"Menu.h"
+	"objects.h"
+	"movement.h"
+	"firing.h"
+	"enemies.h"
+	"collision.h"
+
+1462566512 f:\c++\personal projects\the complete game (bane of russell)\menu.h
+	<iostream>
+	<windows.h>
+
+1432670290 f:\c++\personal projects\the complete game (bane of russell)\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1432670096 f:\c++\personal projects\the complete game (bane of russell)\movement.h
+	<iostream>
+
+1462308560 f:\c++\personal projects\the complete game (bane of russell)\firing.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1461963012 f:\c++\personal projects\the complete game (bane of russell)\enemies.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1463775912 f:\c++\personal projects\the complete game (bane of russell)\collision.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
